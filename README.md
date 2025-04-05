@@ -1,7 +1,7 @@
 ![logo](https://github.com/AparajitaGondane/AparajitaGondane/blob/main/glasses-lie-laptop-reflecting-light-from-screen-dark.jpg);
 <h1 align="center">Hi 👋, I'm Aparajita Gondane</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding_image" width="400" src="https://img.freepik.com/premium-photo/character-art-hd-8k-wallpaper-stock-photographic-image_853645-42814.jpg?w=1380">
+<img align="right" alt="coding_image" width="400" src="https://github.com/AparajitaGondane/AparajitaGondane/blob/main/UTSEH078Aw.gif?w=1380">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aparajitagondane&label=Profile%20views&color=0e75b6&style=flat" alt="aparajitagondane" /> </p>
 
