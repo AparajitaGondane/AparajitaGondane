@@ -1,4 +1,4 @@
-![logo](https://github.com/AparajitaGondane/AparajitaGondane/blob/main/cyber-security-experts-working-with-tech-devices-neon-lights.jpg);
+![logo](https://github.com/AparajitaGondane/AparajitaGondane/blob/main/glasses-lie-laptop-reflecting-light-from-screen-dark.jpg);
 <h1 align="center">Hi 👋, I'm Aparajita Gondane</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding_image" width="400" src="https://img.freepik.com/premium-photo/character-art-hd-8k-wallpaper-stock-photographic-image_853645-42814.jpg?w=1380">
